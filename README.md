@@ -1,2 +1,2 @@
 # hadi
-Sadece Eğitim Amaçlı (Hadi live yardımcısı program teorisi)
+Sadece Eğitim Amaçlı (Hadi live yardımcı program teorisi)
