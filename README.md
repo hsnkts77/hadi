@@ -1,5 +1,5 @@
 # Working Principle / Çalışma Prensibi 
-This will add...
+This will be added...
 
 # Notes / Notlar
 #en
