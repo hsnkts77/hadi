@@ -1,5 +1,11 @@
-# Working Principle / Çalışma Prensibi 
+# Working Principle / Çalışma Prensibi
+#en
+
 This will be added...
+
+#tr
+
+Bu bölüm eklenecek...
 
 # Notes / Notlar
 #en
